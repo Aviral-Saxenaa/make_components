@@ -6,7 +6,7 @@ import Orderedlist from "./Orderedlist";
 function App(){
   return(
     <>
-      <Heading/>
+      {Heading}
       <Paragraph/>
       <Orderedlist/>
       <Paragraph/>
